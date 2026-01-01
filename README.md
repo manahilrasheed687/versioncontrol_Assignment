@@ -1,6 +1,4 @@
 # versioncontrol_Assignment
-# Version Control Assignment
-
 ## Description
 This repository is created for the Version Control assignment.
 It demonstrates basic Git and GitHub operations such as repository setup, branching, and collaboration.
